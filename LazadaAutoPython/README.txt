@@ -1,9 +1,13 @@
 
-1. Before run, need to make some local changes in LazadaAuto.py, make sure web drive is in this path, '~/automation/LazadaAutoPython/chromedriver'
+1. Before run, 
+	need to make some local changes in LazadaAuto.py, make sure web drive is in this path, '~/automation/LazadaAutoPython/chromedriver'
+	need to install behave, selenium and python3
+	
+2. Run the scripts via command line, behave features/LazadaAuto.feature
 
-2. I have included an video to demonstrate the first scenario in this link, https://drive.google.com/file/d/1R6-4-l91UHNT_twxDnQMmPqiRdVaWPVN/view?usp=sharing
+3. I have included an video to demonstrate the first scenario in this link, https://drive.google.com/file/d/1R6-4-l91UHNT_twxDnQMmPqiRdVaWPVN/view?usp=sharing
 
-3. Areas to improve
+4. Areas to improve
 -> an error occurs after slider button is performed, during the login. Tentative walk-around is choose google login manually
 
 -> to handle relative path for webdriver
