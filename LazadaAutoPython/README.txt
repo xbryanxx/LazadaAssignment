@@ -1,7 +1,7 @@
 
 1. Before run, need to make some local changes in LazadaAuto.py, make sure web drive is in this path, '~/automation/LazadaAutoPython/chromedriver'
 
-2. There are an video in the reports folder to demonstrate the first scenario
+2. I have included an video to demonstrate the first scenario in this link, https://drive.google.com/file/d/1R6-4-l91UHNT_twxDnQMmPqiRdVaWPVN/view?usp=sharing
 
 3. Areas to improve
 -> an error occurs after slider button is performed, during the login. Tentative walk-around is choose google login manually
